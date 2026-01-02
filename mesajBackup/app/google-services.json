@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566948751902",
+    "project_id": "mesajbackup-19db3",
+    "storage_bucket": "mesajbackup-19db3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566948751902:android:d2b045b6d0e120152d1c0f",
+        "android_client_info": {
+          "package_name": "com.yarasa.mesajbackup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zrn1tg_EoifZRzY5M2_f1oGYjeaOZxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
